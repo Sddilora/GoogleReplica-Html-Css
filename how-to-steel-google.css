@@ -1,0 +1,109 @@
+
+.ustgirinti{
+  box-sizing: border-box;
+  height: 110px
+}
+.aramasagtaraf{
+  display: flex;
+  box-sizing: border-box;
+  align-items: center;
+}
+.aramakutusuoval{
+border: 1px solid #dfe1e5;
+border-radius: 24px;
+box-sizing: border-box;
+width:        561px;
+height: 44px;
+
+}
+.aramakısmı{
+  border:none;
+  display:flex;
+width:395px;
+height:36px ;
+outline:none;
+font-size:16px;
+
+/*  */
+
+}
+.aramakutusuoval:hover{
+  box-shadow: 0 1px 6px lightgrey;
+}
+#row {
+  padding: 3px 8px 0 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+}
+.headerlogo{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+}
+.logologlog{
+  display: flex;
+  flex-direction: column;
+}
+.bottomfeatures{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center;
+}
+.logo_box{
+  flex-direction: column;
+  display: flex;
+  height: 100%;
+  align-items: center;
+
+}
+.yetoyeto{
+  box-sizing: border-box;
+  padding: 20px;
+}
+.sagustust{
+  display: flex;
+  height: 90%;
+  font:13px Arial,sans-serif;
+  align-items:center;
+
+
+}
+.sagsagsag{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items:flex-end ;
+  height: 48px;
+  padding: 6px 0px 6px 6px;
+}
+.sagustkose{
+    object-position: right;
+}
+.finfin{
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  align-items: center ;
+}
+
+.filofilo{
+  object-position: center;
+}
+.buyutec{
+  padding:3px;
+}
+.gmail{
+  display: inline-block;
+
+}
+.gorseller{
+  display:inline-block;
+    padding-left: 15px;
+}
+.artıkbulamıyorum{
+  display:inline-block;
+    padding-left: 15px;
+}
